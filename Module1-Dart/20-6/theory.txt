@@ -1,0 +1,27 @@
+Datatype:
+int -> Integer -> Numeric
+String -> "Hiren"
+double -> double -> point value[decimal value] -> 8 byte
+boolean -> boolean/bool -> true/false
+
+How to declare variable?
+int a;
+var a;
+
+Operators:
+1) Arithmetic Op
+-> +,-,*,/,%
+
+2) Shorthand Op:
+-> +=,-=,*=,/=,%=
+
+c=a+b //arithmetic op
+a=a+b //shorthand op ->a+=b
+
+3)Relational Op:
+<,>,<=,>=,==,!=
+
+
+
+
+
