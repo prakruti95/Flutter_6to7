@@ -1,0 +1,9 @@
+dart setup
+data type
+var
+String interpolation
+condition
+loop
+functions
+types of parameters
+patterns
