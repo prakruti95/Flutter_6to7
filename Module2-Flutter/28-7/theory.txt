@@ -1,0 +1,13 @@
+MaterialApp
+ -> Scaffold
+     ->appbar
+     ->body
+
+logo:
+android\app\src\main\res
+ios\Runner
+
+title:
+android\app\src\main\AndroidManifest.xml
+ios\Runner\info.plist
+
