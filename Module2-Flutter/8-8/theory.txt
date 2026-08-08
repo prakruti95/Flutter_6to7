@@ -1,0 +1,24 @@
+Admin
+Splash Screen [Lottiee Animation]
+App-Logo
+App-Title
+Admin Login
+Dashboard -> SharedPrefrence
+
+-> Food Product Add
+-> Food Product Edit
+-> Food Product Delete
+
+
+
+User
+Splash Screen
+App-Logo
+App-Title
+Signup User
+Signin User
+Dashboard -> SharedPrefrence
+Food Order
+Online Payment
+
+
