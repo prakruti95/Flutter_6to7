@@ -1,0 +1,9 @@
+Server -> DB
+ 
+API -> Link->
+JSON ->
+[]
+{}
+
+App
+
